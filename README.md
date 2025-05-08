@@ -1,5 +1,7 @@
 Note-app
 
-#React Begineer Project
+#React Beginner Project
 
-This is about CRUD project and using useState and useEffect. There also have add function so using the map().
+This is about the CRUD project and using useState and useEffect. There is also an added function, so the map() is used.
+
+UI is using Tailwind CSS
